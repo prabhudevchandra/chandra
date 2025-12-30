@@ -1,12 +1,12 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { Toaster } from '@/components/ui/toaster';
-import Hero from '@/components/Hero';
-import About from '@/components/About';
-import TechStack from '@/components/TechStack';
-import CaseStudies from '@/components/CaseStudies';
-import Contact from '@/components/Contact';
-import Footer from '@/components/Footer';
+import { Toaster } from './components/ui/toaster';
+import Hero from './components/Hero';
+import About from './components/About';
+import TechStack from './components/TechStack';
+import CaseStudies from './components/CaseStudies';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
     return (

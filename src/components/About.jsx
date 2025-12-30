@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { useInView } from '@/hooks/useInView';
+import { useInView } from '/src/hooks/useInView.js';
 import { TrendingUp, Database, Lightbulb, Target } from 'lucide-react';
 
 const About = () => {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { useInView } from '@/hooks/useInView';
+import { useInView } from '/src/hooks/useInView.js';
 import { TrendingUp, Users, DollarSign, Target, BarChart3, Calendar } from 'lucide-react';
 
 const CaseStudies = () => {
