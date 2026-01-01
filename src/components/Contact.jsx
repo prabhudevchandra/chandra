@@ -67,8 +67,8 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="text-sm text-gray-400 mb-1">Email</div>
-                                        <a href="mailto:contact@example.com" className="text-white hover:text-[#d4af37] transition-colors duration-300">
-                                            contact@example.com
+                                        <a href="mailto:contact@chandraprabhudev.com" className="text-white hover:text-[#d4af37] transition-colors duration-300">
+                                            contact@chandraprabhudev.com
                                         </a>
                                     </div>
                                 </div>
@@ -79,8 +79,8 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="text-sm text-gray-400 mb-1">Phone</div>
-                                        <a href="tel:+1234567890" className="text-white hover:text-[#d4af37] transition-colors duration-300">
-                                            +1 (234) 567-890
+                                        <a href="tel:+917975328137" className="text-white hover:text-[#d4af37] transition-colors duration-300">
+                                            +91 (797) 532-8137
                                         </a>
                                     </div>
                                 </div>
@@ -91,7 +91,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="text-sm text-gray-400 mb-1">LinkedIn</div>
-                                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#d4af37] transition-colors duration-300">
+                                        <a href="https://www.linkedin.com/in/chandraprabhudevk/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#d4af37] transition-colors duration-300">
                                             Connect on LinkedIn
                                         </a>
                                     </div>
